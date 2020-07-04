@@ -1,0 +1,223 @@
+html,body
+{
+	margin:0px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding: 0px; 
+	padding-right: 0px;
+	padding-left: 0px;
+        
+}
+
+.nav
+{
+	
+	background-color: teal;
+	width:100%;
+	margin-top: -90px;
+	float: right;
+}
+
+.nav a
+{
+	font-size: 29px;
+	padding-right: 50px;
+	color:white ;
+	padding-top: 15px;
+	padding-left: 10px;
+	float:right;
+
+}
+
+#nav-pic
+{
+	height: 35px;
+	padding-right: 25px;
+	float: right;
+	padding-top: 12px;
+}
+
+input
+{
+	
+  float: right;
+  padding: 7px;
+  border: none;
+  margin-right:80px; 
+  margin-top: 10px;
+  font-size: 17px;
+
+}
+
+.fa-linkedin-square
+{
+   margin-left: 300px;
+   color: skyblue;
+   margin-top: 10px;
+
+}
+
+p
+{
+	float: right;
+	color: white;
+    font-size: 13px;
+    margin-right: 200px;
+}
+
+
+.card-1
+{
+	width:35%;
+     margin-top: 90px;
+	 margin-left: 550px;
+	border: 1px solid darkgray;
+	box-shadow: 2px 2px 7px  grey;
+
+}
+
+
+.header
+{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	
+}
+
+.header p
+{
+	font-size: 15px;
+	letter-spacing: 1px;
+	color: black;
+	margin-right:0;
+	margin-left: 20px;
+}
+
+
+.header-2 
+{
+	margin-left:-280px; 
+}
+
+.header-2 p
+{
+	margin-right:300px; 
+	font-size: 17px;
+	padding-left: 10px;
+	margin-top: 0px;
+	color: black;
+}
+
+
+.header-3 p
+{
+	font-size: 17px;
+	margin-left: 20px;
+	margin-right: 0;
+	color: black;
+}
+
+.image img
+{
+	height: 300px;
+	width: 100%;
+    border-radius:  0 0 50% 50% / 0 0 100% 100%;
+    position: relative;
+    margin-bottom: 30px;
+}
+
+
+#overlay p
+{
+	font-size: 25px;
+	background-color: lightgreen;
+	width: 35%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	margin-right: 0;
+	position: absolute;
+	top: 600px;
+	opacity: 0.9;
+	color: black;
+
+}
+
+.icon i
+{
+	padding-top: 30px;
+	padding-right: 10px;
+	margin-left: 10px;
+	font-size: 18px;
+
+}
+
+.fa-thumbs-up
+{
+	color: blue;
+}
+
+.fa-lightbulb-o
+{
+	color: yellow;
+}
+
+.fa-heart
+{
+	color: red;
+}
+
+.icon p
+{
+	font-size: 16px;
+	margin-right: 250px;
+	color: black;
+	margin-top: 30px;
+	
+}
+
+.comment
+{
+	display: inline-block;
+	margin-bottom: 10px;
+}
+.comment i
+{
+	padding-top: 10px;
+	padding-right: 10px;
+	margin-left: 12px;
+	font-size: 19px;
+	margin-right: 0;
+	letter-spacing: 2px;
+	color:gray;
+}
+
+.profile p
+{
+	margin-right:310px; 
+	font-size: 17px;
+	padding-left: 10px;
+	margin-top: 7px;
+	color: black;
+
+}
+
+.profile img
+{
+	border-radius: 50%;
+	height: 60px;
+	width: 60px;
+	padding: 12px;
+}
+
+.dot
+{
+
+	margin-left: 100px;
+	margin-top: -70px;
+	float: right;
+	font-size: 22px;
+	margin-right: 30px;
+}
+
+
